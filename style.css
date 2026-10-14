@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+Hebrew:wght@400;600&family=Frank+Ruhl+Libre:wght@500;700&family=Lora:ital,wght@0,400;0,600;1,400&display=swap');
+:root{--ink:#1f2a37;--muted:#5b6675;--bg:#fbf8f2;--card:#fff;--accent:#1d6f8f;--gold:#c79a3a}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font:18px/1.7 Lora,Georgia,serif}
+.wrap{max-width:760px;margin:0 auto;padding:0 18px}
+header.hero{background:linear-gradient(135deg,#0f3b52,#1d6f8f 60%,#3d9bb8);color:#fff;padding:42px 0 34px;text-align:center}
+.hero h1{margin:0;font:700 2.4rem 'Frank Ruhl Libre',serif}.hero .he{font:600 2rem 'Noto Serif Hebrew',serif;opacity:.9}
+.hero p{margin:6px 0 0;opacity:.9}nav{padding:10px 0;font-size:.9rem}nav a{color:var(--accent)}
+section{background:var(--card);border-radius:14px;box-shadow:0 2px 14px rgba(0,0,0,.06);padding:22px 24px;margin:22px 0}
+h2{font-family:'Frank Ruhl Libre',serif;color:#0f3b52}h3{color:#0f3b52}
+summary{cursor:pointer;font:600 1.3rem 'Frank Ruhl Libre',serif;color:#0f3b52}
+.hebrew{direction:rtl;text-align:justify;font-family:'SBL Hebrew','Taamey Frank CLM','Noto Serif Hebrew','Frank Ruhl Libre',serif;font-size:1.45rem;line-height:2.25}
+.hebrew .v{font-size:.8rem;color:var(--gold);font-weight:600;margin-inline-end:4px}
+.pic{border:2px dashed #9bb7c4;border-radius:12px;background:repeating-linear-gradient(45deg,#eef4f7,#eef4f7 12px,#e5eef2 12px,#e5eef2 24px);min-height:170px;display:flex;align-items:center;justify-content:center;text-align:center;padding:18px;color:var(--muted);font-style:italic;margin:20px 0}
+.pic b{display:block;font-style:normal;color:#0f3b52;letter-spacing:.08em;font-size:.8rem}
+blockquote,.glance{border-inline-start:4px solid var(--gold);padding-left:12px}
+ul.list{list-style:none;padding:0}ul.list li{padding:12px 0;border-bottom:1px solid #eee}ul.list a{font-weight:600;color:var(--accent);font-size:1.2rem}.soon{color:var(--muted)}
+footer{text-align:center;color:var(--muted);font-size:.9rem;padding:20px 0 40px}footer a{color:var(--accent)}
+@media(max-width:600px){body{font-size:17px}.hebrew{font-size:1.3rem}section{padding:16px}}
