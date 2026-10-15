@@ -22,3 +22,6 @@ footer{text-align:center;color:var(--muted);font-size:.9rem;padding:20px 0 40px}
 .he-story{direction:rtl;text-align:right;font-family:'Noto Serif Hebrew','Frank Ruhl Libre',serif;line-height:1.9}
 .he-story blockquote,.he-story .glance{border-inline-start:4px solid var(--gold);padding-left:0;padding-right:12px}
 .hebtn{display:inline-block;margin-top:14px;padding:8px 18px;border-radius:999px;background:#fff;color:#0f3b52;font-weight:600;text-decoration:none;box-shadow:0 2px 8px rgba(0,0,0,.2)}
+.story-img{margin:24px 0;text-align:center}
+.story-img img{width:100%;height:auto;border-radius:12px;box-shadow:0 4px 18px rgba(0,0,0,.18);display:block}
+.story-img figcaption{font-size:.9rem;color:var(--muted);font-style:italic;margin-top:8px}

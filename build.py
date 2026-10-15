@@ -2,8 +2,14 @@
 """Regenerate parsha/*.html and index.html from content/<date>-<slug>/. Run: python3 build.py"""
 import json,re,pathlib,markdown,html
 R=pathlib.Path(__file__).parent;T=(R/'template.html').read_text()
-def md(s):
-    s=re.sub(r'^\[PICTURE (\d+): (.*?)\]$',lambda m:f'<div class="pic"><div><b>PICTURE {m[1]} · COMING SOON</b>{html.escape(m[2])}</div></div>',s,flags=re.M)
+def pic(slug,n,cap):
+    # Real image if images/<slug>/<slug>-<n>.jpg (or .png/.webp) exists, else a 'coming soon' placeholder.
+    for ext in ('jpg','png','webp'):
+        if (R/'images'/slug/f'{slug}-{n}.{ext}').exists():
+            c=html.escape(cap);return f'<figure class="story-img"><img src="../images/{slug}/{slug}-{n}.{ext}" alt="{c}" loading="lazy" width="1600" height="900"><figcaption>{c}</figcaption></figure>'
+    return f'<div class="pic"><div><b>PICTURE {n} · COMING SOON</b>{html.escape(cap)}</div></div>'
+def md(s,slug=''):
+    s=re.sub(r'^\[PICTURE (\d+): (.*?)\]$',lambda m:pic(slug,m[1],m[2]),s,flags=re.M)
     return markdown.markdown(s,extensions=['extra'])
 def heb(t,refs):
     out=[]
@@ -17,8 +23,8 @@ for d in sorted((R/'content').iterdir()):
     m=json.loads((d/'meta.json').read_text());items.append(m)
     p=T
     for k,v in {**{k:v for k,v in m.items() if isinstance(v,str)},'excerpt':heb((d/'excerpt.txt').read_text(),m.get('excerpt_refs',{})),
-                'story':md((d/'story.md').read_text()),
-                'story_he':md((d/'story_he.md').read_text()) if (d/'story_he.md').exists() else '<p>בקרוב</p>',
+                'story':md((d/'story.md').read_text(),m['slug']),
+                'story_he':md((d/'story_he.md').read_text(),m['slug']) if (d/'story_he.md').exists() else '<p>בקרוב</p>',
                 'commentary':md((d/'commentary.md').read_text()) if (d/'commentary.md').exists() else ''}.items(): p=p.replace('{{'+k+'}}',v)
     (R/'parsha'/f"{m['slug']}.html").write_text(p)
 lis=''.join(f'<li><a href="parsha/{m["slug"]}.html">{m["title"]} <span lang="he">{m["hebrew"]}</span></a><br><small>{m["ref"]} · {m["date"]}</small></li>' for m in reversed(items))

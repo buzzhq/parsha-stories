@@ -12,6 +12,8 @@ And in later Hebrew, *teivah* means one more thing: a **word**. Keep that in you
 
 If this were a Hollywood film, you know how it goes: the sky goes dark, the music gets loud, and one ordinary family is chosen to survive while everyone else... doesn't. The Torah got there thousands of years before Hollywood (and before Russell Crowe in *Noah* and Steve Carell in *Evan Almighty*). But the real story is less about the special effects and more about what comes after them.
 
+[PICTURE 1: A dark, crowded city before the flood, giant shadows on the walls, and one small family looking towards the hills.]
+
 ## 1. The world goes wrong
 
 Ten generations have passed since Adam and Chava left the Garden of Eden. That's a long time, even when people live for hundreds of years.
@@ -60,6 +62,8 @@ This isn't just a lot of rain. Remember the very beginning of the Torah? The wor
 
 It rains for forty days and forty nights. The water rises above the highest mountains. Everything that breathed on dry land is gone. "Only Noach was left, and those with him in the *teivah*."
 
+[PICTURE 2: The ark seen in a huge storm, tiny on a dark grey sea.]
+
 ## 5. The long wait
 
 Then the Torah says something beautiful: "God remembered Noach." A wind passes over the earth, the fountains and windows close, and the water starts to go down.
@@ -85,6 +89,8 @@ God blesses Noach and his sons with the very same words He said to Adam: "Be fru
 Then the sign of the promise. "I have set My bow (*keshet*) in the cloud." Whenever clouds gather and the rainbow appears, God will remember the covenant: never again a flood to destroy all life.
 
 💡 **Did you know?** *Keshet* is the everyday Hebrew word for a rainbow, but it's also the word for a warrior's bow, the kind you shoot arrows with. Many readers picture God hanging up a weapon in the sky, pointed away from the earth, for good.
+
+[PICTURE 3: The ark resting on a mountain top, a dove with an olive leaf, and a rainbow across the sky.]
 
 ## 7. The vineyard
 
