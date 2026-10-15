@@ -5,17 +5,20 @@ R=pathlib.Path(__file__).parent;T=(R/'template.html').read_text()
 def md(s):
     s=re.sub(r'^\[PICTURE (\d+): (.*?)\]$',lambda m:f'<div class="pic"><div><b>PICTURE {m[1]} · COMING SOON</b>{html.escape(m[2])}</div></div>',s,flags=re.M)
     return markdown.markdown(s,extensions=['extra'])
-def heb(t):
+def heb(t,refs):
     out=[]
     for line in t.splitlines():
         m=re.match(r'^(\S+:\S+) (.*)$',line)
-        if m and ':' in m[1] and re.match('[א-ת]',m[1]): out.append(f'<span class="v">{m[1]}</span>{html.escape(m[2])} ')
+        if m and re.match('[א-ת]',m[1]):
+            out.append(f'<div class="verse"><div class="ref"><span lang="en" dir="ltr">{refs.get(m[1],"")}</span> · <span lang="he">{m[1]}</span></div><p lang="he" dir="rtl">{html.escape(m[2])}</p></div>')
     return ''.join(out)
 items=[]
 for d in sorted((R/'content').iterdir()):
     m=json.loads((d/'meta.json').read_text());items.append(m)
     p=T
-    for k,v in {**m,'hebrew_text':heb((d/'hebrew.txt').read_text()),'story':md((d/'story.md').read_text()),
+    for k,v in {**{k:v for k,v in m.items() if isinstance(v,str)},'excerpt':heb((d/'excerpt.txt').read_text(),m.get('excerpt_refs',{})),
+                'story':md((d/'story.md').read_text()),
+                'story_he':md((d/'story_he.md').read_text()) if (d/'story_he.md').exists() else '<p>בקרוב</p>',
                 'commentary':md((d/'commentary.md').read_text()) if (d/'commentary.md').exists() else ''}.items(): p=p.replace('{{'+k+'}}',v)
     (R/'parsha'/f"{m['slug']}.html").write_text(p)
 lis=''.join(f'<li><a href="parsha/{m["slug"]}.html">{m["title"]} <span lang="he">{m["hebrew"]}</span></a><br><small>{m["ref"]} · {m["date"]}</small></li>' for m in reversed(items))

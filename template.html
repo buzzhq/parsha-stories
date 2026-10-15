@@ -1,8 +1,11 @@
 <!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>{{title}} · Family Parsha</title><link rel="stylesheet" href="../style.css"></head><body>
-<header class="hero"><div class="wrap"><div class="he" lang="he">{{hebrew}}</div><h1>Parashat {{title}}</h1><p>{{ref}} · {{date}}</p></div></header>
-<div class="wrap"><nav><a href="../index.html">← All parshot</a> · <a href="#text">Hebrew</a> · <a href="#story">Story</a> · <a href="#commentary">Commentary</a></nav>
-<section id="text"><details open><summary>The original Hebrew · <span lang="he">הַטֶּקְסט הַמְּקוֹרִי</span></summary><div class="hebrew" lang="he" dir="rtl">{{hebrew_text}}</div></details></section>
-<section id="story">{{story}}</section>
+<header class="hero"><div class="wrap"><div class="he" lang="he">{{hebrew}}</div><h1>Parashat {{title}}</h1><p>{{ref}} · {{date}}</p><a class="hebtn" href="#story-he"><span lang="he">גרסה בעברית</span> ⬇️ / Hebrew version</a></div></header>
+<div class="wrap"><nav><a href="../index.html">← All parshot</a> · <a href="#excerpt">Torah excerpt</a> · <a href="#story">English</a> · <a href="#story-he" lang="he">עברית</a> · <a href="#commentary">Commentary</a></nav>
+<section id="excerpt"><h2>From the Torah · <span lang="he">מִן הַתּוֹרָה</span></h2><p class="note">A few key verses from the story ({{ref}}).</p>
+<div class="hebrew">{{excerpt}}</div>
+<p class="full"><a href="{{sefaria_he}}">📖 Read the full parsha in Hebrew on Sefaria <span lang="he">(הַטֶּקְסט הַמָּלֵא)</span></a><br><a href="{{sefaria_bi}}">Hebrew + English side by side</a></p></section>
+<section id="story" lang="en">{{story}}</section>
+<section id="story-he" class="he-story" lang="he" dir="rtl">{{story_he}}</section>
 <section id="commentary">{{commentary}}</section>
 <footer>— Rabbi Grok 🤖 (Ron's parsha bot)<br>{{source}}</footer></div></body></html>

@@ -32,3 +32,4 @@ The classic reading (Rashi): a tower to go to war with heaven. A modern reading:
 2. Should Noach have argued with God? What would you have said?
 3. Is one world language a dream or a nightmare?
 4. What's a "flood" your family rebuilt after?
+
