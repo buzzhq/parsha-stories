@@ -1,0 +1,19 @@
+{
+ "slug": "lech-lecha",
+ "title": "Lech Lecha",
+ "hebrew": "לֶךְ־לְךָ",
+ "ref": "Genesis 12:1–17:27",
+ "date": "Shabbat 24 October 2026 · 13 Cheshvan 5787",
+ "source": "Hebrew text: <a href=\"https://www.sefaria.org/Genesis.12.1-17.27\">Sefaria</a>, “Miqra according to the Masorah” (Dovi / he.wikisource), licensed CC BY-SA.",
+ "sefaria_he": "https://www.sefaria.org/Genesis.12.1-17.27?lang=he",
+ "sefaria_bi": "https://www.sefaria.org/Genesis.12.1-17.27?lang=bi",
+ "excerpt_refs": {
+  "יב:א": "Genesis 12:1",
+  "יב:ב": "Genesis 12:2",
+  "יג:ט": "Genesis 13:9",
+  "טו:ה": "Genesis 15:5",
+  "טז:יג": "Genesis 16:13",
+  "יז:ה": "Genesis 17:5",
+  "יז:טו": "Genesis 17:15"
+ }
+}
