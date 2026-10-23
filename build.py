@@ -18,11 +18,18 @@ def heb(t,refs):
         if m and re.match('[א-ת]',m[1]):
             out.append(f'<div class="verse"><div class="ref"><span lang="en" dir="ltr">{refs.get(m[1],"")}</span> · <span lang="he">{m[1]}</span></div><p lang="he" dir="rtl">{html.escape(m[2])}</p></div>')
     return ''.join(out)
+def vid(m):
+    # Optional meta.json "video" (path relative to site root), "video_poster", "video_caption".
+    v=m.get('video')
+    if not v: return ''
+    po=m.get('video_poster');pa=f' poster="../{po}"' if po else ''
+    c=m.get('video_caption','Watch the story')
+    return f'<section id="video" class="video"><video controls preload="metadata" playsinline{pa}><source src="../{v}" type="video/mp4">Your browser does not support video.</video><p class="vcap">🎬 {c}</p></section>'
 items=[]
 for d in sorted((R/'content').iterdir()):
     m=json.loads((d/'meta.json').read_text());items.append(m)
     p=T
-    for k,v in {**{k:v for k,v in m.items() if isinstance(v,str)},'excerpt':heb((d/'excerpt.txt').read_text(),m.get('excerpt_refs',{})),
+    for k,v in {**{k:v for k,v in m.items() if isinstance(v,str)},'video':vid(m),'excerpt':heb((d/'excerpt.txt').read_text(),m.get('excerpt_refs',{})),
                 'story':md((d/'story.md').read_text(),m['slug']),
                 'story_he':md((d/'story_he.md').read_text(),m['slug']) if (d/'story_he.md').exists() else '<p>בקרוב</p>',
                 'commentary':md((d/'commentary.md').read_text()) if (d/'commentary.md').exists() else ''}.items(): p=p.replace('{{'+k+'}}',v)

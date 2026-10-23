@@ -25,3 +25,6 @@ footer{text-align:center;color:var(--muted);font-size:.9rem;padding:20px 0 40px}
 .story-img{margin:24px 0;text-align:center}
 .story-img img{width:100%;height:auto;border-radius:12px;box-shadow:0 4px 18px rgba(0,0,0,.18);display:block}
 .story-img figcaption{font-size:.9rem;color:var(--muted);font-style:italic;margin-top:8px}
+.video{margin:1.2em 0}
+.video video{display:block;width:100%;max-width:100%;height:auto;border-radius:12px;background:#000;box-shadow:0 2px 10px rgba(0,0,0,.15)}
+.video .vcap{text-align:center;margin:.5em 0 0;font-size:.95em;opacity:.8}
