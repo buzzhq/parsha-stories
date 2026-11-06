@@ -1,0 +1,19 @@
+{
+  "slug": "chayei-sara",
+  "title": "Chayei Sara",
+  "hebrew": "חַיֵּי שָׂרָה",
+  "ref": "Genesis 23:1–25:18",
+  "date": "Shabbat 7 November 2026 · 27 Cheshvan 5787",
+  "source": "Hebrew text: <a href=\"https://www.sefaria.org/Genesis.23.1-25.18\">Sefaria</a>, “Miqra according to the Masorah” (Dovi / he.wikisource), licensed CC BY-SA.",
+  "sefaria_he": "https://www.sefaria.org/Genesis.23.1-25.18?lang=he",
+  "sefaria_bi": "https://www.sefaria.org/Genesis.23.1-25.18?lang=bi",
+  "excerpt_refs": {
+    "כג:א": "Genesis 23:1",
+    "כג:טז": "Genesis 23:16",
+    "כד:יד": "Genesis 24:14",
+    "כד:נח": "Genesis 24:58",
+    "כד:סד": "Genesis 24:64",
+    "כד:סז": "Genesis 24:67",
+    "כה:ט": "Genesis 25:9"
+  }
+}
