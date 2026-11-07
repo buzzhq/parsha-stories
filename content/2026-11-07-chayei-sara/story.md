@@ -1,176 +1,145 @@
-# 📜 Parashat Chayei Sara (חַיֵּי שָׂרָה): A Grave, a Well, and a Tent
+# 📜 Chayei Sara (חַיֵּי שָׂרָה): The Door Left Open
 
 **Shabbat 7 November 2026 · 27 Cheshvan 5787 · Genesis 23:1–25:18**
 
-## Cold open: scream "Chayei Sara!"
+The tent was still there. That was the difficult part. Its ropes still held, its cloth still moved in the wind, and anyone arriving at the camp could have mistaken it for the same home as yesterday. But Sarah was dead, and Avraham had to work out how to leave her behind without leaving everything they had built behind with her.
 
-This week's portion is called *Chayei Sara* — "the life of Sarah." And in verse 2, Sarah dies.
+She had lived 127 years. There had been journeys, arguments, unexpected guests, and the astonishing arrival of Yitzchak, the son whose name carried her laughter. Now Avraham came to Hebron to mourn her, and for a while there was nothing useful to do except weep.
 
-Classic Torah irony. Same trick as *Vayechi* ("and Jacob lived"), which is mostly about Jacob dying. The two portions that focus hardest on death are both named *life*.
+Then he stood up. Sarah needed a resting place.
 
-Meanwhile, somewhere in an Israeli schoolyard right now, kids are screaming *"Chayei Sara!"* and flinging a ball at each other. It's a hugely popular playground game — a dodgeball cousin, everyone versus everyone, last one standing wins. (Depending on the neighbourhood it's also called *shvuyim*, "captives," or *chamamot*.) Nobody's sure why it got named after this week's parsha. One theory: invent it on Shabbat Chayei Sara and the name sticks. Another: stay alive as long as possible — Sarah made it to 127. Ask Noam if he's played it.
+For all his flocks and servants, all those promises about the land, he did not own a family burial ground. He went to the local Hittites and called himself *ger v'toshav*: a stranger and a resident. Someone who belonged here, and still needed permission. He asked to buy a place for his dead.
 
-Somewhere between a funeral and a flying ball is this week's story: the Torah's first real-estate deal, ten thirsty camels, the first blind date in the Bible, and two half-brothers who finally stand together at a grave.
+They offered their finest tombs. He bowed, thanked them, and asked instead for a particular cave, Machpelah, at the edge of Ephron's field. He wanted to pay for it. Somewhere his family could return without wondering whether the welcome had expired.
 
-Welcome to Chayei Sara.
+Ephron was sitting among the townspeople at the gate. He rose magnificently to the occasion. The cave? Of course! The field too! A gift! Everyone was listening; generosity was having a very public afternoon.
+
+Avraham bowed again. Please, let him pay.
+
+Well, said Ephron, a piece of land worth four hundred shekels of silver — what was that between friends?
+
+Apparently friendship had a price list.
+
+Avraham did not argue. He weighed out the silver, good silver acceptable to merchants, while the witnesses watched. The account in the Torah carefully includes the field, the cave, and even the trees within its boundaries. Grief had brought him to the gate; he left with something solid enough to outlast a handshake.
+
+He buried Sarah in the cave. There was finally a place where she could rest. But back at the camp there was still the tent, and there was still their son.
+
+[PICTURE 1: At Hebron's gate, Avraham weighs out the silver for the field and cave where Sarah will rest.]
+
+Avraham was growing old. The Torah says God had blessed him “in everything”, yet there are things a full storehouse cannot solve. He could secure a grave with silver. He could not buy Yitzchak a future in quite the same way.
+
+He called the senior servant who managed his household. This chapter never gives the man a name; tradition calls him Eliezer. He knew how to look after what Avraham owned. Now Avraham was entrusting him with what he hoped would continue.
+
+He made the servant swear to find Yitzchak a wife from his own homeland and family, rather than from the Canaanites around them. There was one firm condition: Yitzchak must not be taken back there.
+
+The servant spotted the difficulty immediately. What if the woman would not come? Was he supposed to bring Yitzchak to her?
+
+No. Avraham had left that country to make a life here. His son's future was not to be a retreat along his father's tracks. He trusted God to send an angel ahead of the servant. But if the woman refused to follow, the servant would be released from his oath.
+
+That left the servant with a long journey, an enormous responsibility, and no guarantee. He could take presents. He could explain the family. He could not pack someone else's yes in his luggage.
+
+He loaded ten camels with good things from his master's household and set off towards the city of Nachor, in Aram-Naharayim. Behind him was a home waiting for news. Ahead was a woman he had never met, who might want nothing to do with it.
 
 ---
 
-## 1. One hundred and twenty-seven
+By the time he reached the well outside the town, it was evening. Women were coming out to draw water. He made the camels kneel and faced the part of his mission no amount of careful packing had prepared him for.
 
-*"And the life of Sarah was one hundred years and twenty years and seven years — the years of Sarah's life."* (Genesis 23:1)
+How do you recognise someone who might help build a home?
 
-The Torah counts her years in three chunks: 100, 20, and 7. Rashi hears a compliment in the grammar: at a hundred she was as free of sin as at twenty; at twenty as beautiful as at seven. And "the years of Sarah's life" means all of them were equally good.
+He prayed to Avraham's God. Let him ask a young woman for a drink, and let the right one offer water not just to him, but to his camels too.
 
-She dies in Kiryat Arba, which is Hebron. Avraham comes to mourn her and weep for her. A midrash says the news of the Akedah from last week shocked her soul out of her body. The Torah itself just puts the two stories back to back and lets you feel the silence.
+He was looking for *chesed*: kindness that notices more than it is asked to notice. A thirsty traveller was obvious. Ten large animals waiting behind him were rather harder to overlook, but much easier to pretend you hadn't seen.
 
-(Trivia that once woke up Rabbi Akiva's dozing audience: Why did Queen Esther rule 127 provinces? Because she descended from Sarah, who lived 127 years. We're still in that business.)
+Before he had finished praying, Rivka arrived with a jar on her shoulder. She went down to the spring, filled it, and came up. The servant hurried towards her.
 
-## 2. "What's 400 shekels between friends?"
+“Please, let me sip a little water from your jar.”
 
-Avraham needs a grave. He stands up and tells the Hittites: *"I am a stranger and a resident among you. Give me a burial holding with you, so I may bury my dead from before me."* (23:4)
+“Drink, my lord,” she said, lowering it for him.
 
-*Ger v'toshav* — stranger and resident. Both at once. Immigrant families know the feeling.
+Then, without being asked: “I will draw for your camels as well, until they finish drinking.”
 
-The Hittites are politely extravagant. "You're a prince of God among us! Bury your dead in the choicest of our tombs." Avraham bows, then gets specific: he wants the Cave of Machpelah, at the edge of Ephron son of Tzochar's field. He will pay full price.
+Until they finished. Not until she got bored, or until one particularly unreasonable camel had used up his share. She emptied the jar into the trough and ran back for more.
 
-Ephron answers in front of the whole town gate. First the theatrical generosity: "No, my lord — listen! I give you the field, and I give you the cave that is in it. Bury your dead." Free! Take it!
+The servant watched in silence. Water poured. The animals crowded in. Rivka went down and came up again, while his hopeful little prayer turned into a surprisingly strenuous piece of real life.
 
-Then, one breath later: *"A land worth four hundred shekels of silver — what is that between me and you? Bury your dead."* (23:15)
+Even one thirsty camel can drink an extraordinary amount. Ten were not a small favour. They were a whole after-school activity, with no medal at the end.
 
-Ah. So "free" comes with a number. Four hundred shekels. 
-Avraham does not haggle down. He weighs out the silver — *over lasocher*, merchant-grade, the kind that passes any trader's test — in front of everyone. Sarah is buried. The field and the cave become legally his.
+At last the drinking stopped. The servant brought out a gold nose-ring and two bracelets. Then he asked whose daughter she was, and whether her father's house had room for them to stay.
 
-The rabbis notice that Ephron's name loses a letter here: he "said much and didn't do even a little." Ramban adds that Avraham only wanted the cave; Ephron pushed the whole field onto him "out of courtesy or trickery." Either way, the first Jewish real estate in the land is a cemetery plot, bought honestly, in public, for full price. A gift can be taken back. A public sale can't.
+She was the daughter of Bethuel, whose father was Avraham's brother Nachor. The servant had found his master's family without even knowing it. And yes, she said, there was straw, animal feed, and room to spend the night.
 
-💡 **Did you know?** Four hundred shekels was a lot. Later in the Bible, Jeremiah buys a whole field for 17 shekels (Jeremiah 32:9), and King David buys the future Temple site for 50 (II Samuel 24:24). Ephron is not undercharging.
+He bowed down and thanked God. He had come looking for an address. He had found someone who made room.
 
-[PICTURE 1: The deal at the gate — Avraham weighing merchant-grade silver while Ephron performs “it’s a gift!”; terraced field and the Cave of Machpelah behind.]
+[PICTURE 2: Rivka keeps drawing water for the ten camels while the servant watches his prayer become an answer.]
 
-## 3. Mission briefing
+Rivka ran home with the news. Her brother Laban saw the jewellery and came running out to the visitor. Nothing improves your enthusiasm for a house guest quite like gold bracelets.
 
-Time passes. *"Avraham was old, advanced in days, and God had blessed Avraham in everything."* (24:1)
+“Come in, blessed of God! Why stand outside?”
 
-*Bakol* — in everything. The Talmud has fun with that word. One opinion: he had no daughter. Another: he did. "Others say: Avraham had a daughter and her name was Bakol." Secret daughter named Everything. We'll leave that there.
+The camels were unloaded and fed. Water was brought for the travellers' feet. Food appeared. After the road, it must have looked wonderful, but the servant would not eat yet.
 
-He calls his senior servant — the Torah never names him in this chapter; tradition calls him Eliezer, from 15:2 — and makes him swear. Find a wife for Yitzchak from my homeland, from my family. Not from Canaan. And do *not* take my son back there.
+“I will not eat until I have told my errand.”
 
-The servant asks the practical question: what if the woman won't come? Do I bring Yitzchak to her?
+So, with supper waiting, he told them about Avraham, his wealth, his son, and the promise he had made. He described the well, the prayer, and Rivka's offer. He needed them to understand: this was not a casual visit by a man with expensive luggage.
 
-"No," says Avraham. "Only don't take my son back there." If she refuses, you're released from the oath. Just go.
+At the gate in Hebron, the future had depended on everyone hearing a sale. Here, around a meal, it depended on everyone hearing a story.
 
-## 4. The camel test
+Laban and Bethuel answered that this had come from God. Rivka could go and become Yitzchak's wife. The servant bowed again, brought out silver, gold, and clothes, and at last everyone ate.
 
-The servant takes ten camels and a pile of gifts and rides to Aram-Naharayim, to the city of Nachor. Evening. The women are coming out to draw water. He parks the camels by the well and prays:
+By morning he was ready to leave. Her brother and mother were not. Let Rivka stay a while, they said. Ten days, perhaps.
 
-*"Let the young woman to whom I say, 'Please tip your jar so I may drink,' and who answers, 'Drink, and I will also water your camels' — let her be the one You have shown for Your servant Yitzchak."* (24:14)
+The servant had crossed all that distance, found the family, and seen the kindness he had hoped for. Now the journey threatened to stop at the breakfast table. He asked them not to delay him.
 
-Not looks. Not money. Not family connections. *Chesed* — kindness beyond what's asked. Water for a thirsty stranger is polite. Offering to water ten camels is character. 
-Before he has even finished praying, Rivka appears — granddaughter of Avraham's brother Nachor. She fills her jar and comes up. He runs toward her.
+Then they called Rivka.
 
-"Please, let me sip a little water from your jar."
+“Will you go with this man?”
 
-"Drink, my lord." She lowers the jar onto her hand. Then, unprompted: "I will draw for your camels as well, until they finish drinking."
+There it was: the question that neither Avraham's instructions nor the servant's presents could answer for her.
 
-She empties her jar into the trough and runs back to the well. Again. And again. The camels drink. The servant watches, stunned, and asks: "Whose daughter are you? Is there room in your father's house for us to spend the night?"
+“אֵלֵךְ,” she said. “I'll go.”
 
-She tells him. He gives her a gold nose-ring and two gold bracelets. She runs home.
+She did not know Yitzchak. She had not seen the tent waiting at the other end of the road. This was not a decision without risk. But the person who had run to bring water could also choose where her own feet would take her.
 
-💡 **Did you know?** A really thirsty camel can drink on the order of a hundred litres in about ten minutes. Ten camels “until they finish” is not a polite splash — it’s a serious workout. (They won’t all be that dehydrated, so say “could be up to.”)
-
-[PICTURE 2: The camel test — Rivka at the well, pouring for ~ten thirsty camels, while the servant watches in amazement.]
-
-## 5. Laban spots the gold
-
-Rivka has a brother named Laban. Laban sees the jewellery on his sister's arms — and suddenly he is *very* hospitable. "Come in, blessed of God! Why stand outside?"
-
-(Light comedy, ancient edition.)
-
-Food is set out. The servant refuses to eat until he has said his piece. Then he tells the whole story again — almost word for word. The journey. The prayer. The girl at the well. The camels. The jewellery. The Torah lingers on this retelling. The rabbis say the conversation of the patriarchs' servants is dearer before God than the Torah of their children: elsewhere laws get packed into single letters; here the text slows down for a kind act at a well.
-
-(One more rabbinic wink: when the servant earlier said "perhaps the woman won't follow me," the Hebrew *ulai*, "perhaps," can be read as *elai*, "to me" — because he had a daughter and was quietly hoping the match would come his way. The matchmaker with a conflict of interest. It didn't work out.)
-
-Laban and Bethuel answer: this is from God; we can't say yes or no. Take her and go. More silver, gold and clothing come out. Everyone celebrates.
-
-In the morning he wants to leave. The family tries to stall: "Let the girl stay with us a few days — ten, maybe." He insists. So they do something remarkable.
-
-## 6. "I'll go"
-
-*"They called Rivka and said to her: Will you go with this man?"*
-
-*"And she said: אֵלֵךְ — I'll go."* (24:58)
-
-One word. No committee. No "let me think about it." *Elech.*
-
-Earlier in Genesis, God told Avraham *lech lecha* — go. Now the same root comes out of a young woman's mouth, by her own choice. From here, the rabbis say, a woman is not married off without her consent. They asked her.
-
-They send her off with a blessing: "Our sister, may you become thousands of myriads." Rivka, her nurse, and the servant's men mount the camels and ride south.
-
-## 7. Sunset in the field
-
-Yitzchak has come from Beer-lachai-roi and is living in the Negev. Toward evening he goes out to the field *lasuach* — to stroll, or, as tradition reads it, to pray. (Yitzchak is credited with the afternoon prayer, Mincha.)
-
-Rivka looks up. She sees him. And she falls — or slides — off the camel. Some say she saw his majesty and was stunned; others, that she simply dismounted out of good manners when a man walked toward them across the field. Either way — graceful or not — it's a moment.
-
-"Who is that man walking in the field toward us?"
-
-"He is my master," says the servant.
-
-She takes a veil and covers herself.
-
-Yitzchak brings her into the tent of Sarah his mother. He marries her. He loves her. And he is comforted after his mother.
-
-The midrash paints what that tent had been like while Sarah lived: a candle burning from Shabbat to Shabbat, a blessing in the dough, a cloud over the tent, doors wide open for guests. When Sarah died, they stopped. When Rivka entered, they returned. Sarah's tent is lit again. The Torah mentions a husband's love here, the rabbis say, *because* that love is what finally comforted him.
-
-[PICTURE 3: Sunset in the field — Yitzchak walking alone; Rivka sliding from the camel, veil fluttering; a warm lamp in Sarah’s tent.]
-
-## 8. Two brothers, one grave
-
-Coda. Avraham remarries — a woman named Keturah — and has six more sons. (A midrash says Keturah is Hagar renamed, "sweet as incense." The Torah itself just says he took another wife named Keturah.) He gives the other sons gifts and sends them east. Everything else goes to Yitzchak.
-
-Avraham dies at 175, "old and satisfied." And then this:
-
-*"Yitzchak and Yishmael his sons buried him in the Cave of Machpelah."* (25:9)
-
-The two half-brothers. Together. At the same cave Avraham bought for Sarah, for full price, in public. The rabbis notice the order of the names — Yitzchak first — and read it as Yishmael letting his younger brother go ahead: reconciliation, and part of the "good old age" promised to Avraham.
-
-Yishmael's twelve sons are listed as princes. Yishmael himself dies at 137. The portion ends.
+Her family blessed her: may she become thousands upon thousands. Rivka and her attendants mounted the camels; her nurse went with her. The servant could finally turn towards home, carrying not a purchase but a promise someone else had freely made.
 
 ---
 
-## Close
+On the outward journey the camels had carried gifts. Now they carried a new member of the family, with her own memories, her own people behind her, and every reason to wonder what lay ahead.
 
-So: a grave bought honestly. A wife chosen for kindness. A tent where grief turns into love. Two funerals bookending a wedding. A parsha called *Life*.
+Near the end of the journey, in the Negev, a man was walking in a field towards evening. Yitzchak had come from Beer-lachai-roi. The Torah says he had gone out *lasuach* — a word often understood as walking or meditating, and read by the rabbis as prayer.
 
-💡 **Did you know?** The massive walls over Machpelah today are Herodian — about two thousand years old. The site has been in continuous religious use since early Roman times; Jews, Christians and Muslims all revere it. On Shabbat Chayei Sara it is packed — people come to read this exact portion at the spot it describes.
+He looked up and saw camels approaching.
 
+Rivka looked up too. She saw him and came down from her camel — the Hebrew says she “fell”, though commentators also understand a quick slide or dismount. However elegant it was, the long journey suddenly had a face.
 
-💡 **Did you know?** The haftarah this week opens with the same phrase as Genesis 24:1 — “old, advanced in days” — only this time it’s King David, also sorting which son inherits (I Kings 1:1–31).
+“Who is that man walking in the field towards us?”
 
+“He is my master,” the servant answered.
 
-Avraham's grave is still, somehow, a place where his two families meet.
+She took her veil and covered herself. The servant told Yitzchak everything he had done. After so much talking about this man in distant rooms, here he was, close enough to hear the story himself.
 
-Back to the playground: stay alive as long as you can. Sarah made it to 127. What a life leaves behind is the point.
+[PICTURE 3: In the evening field, Rivka sees Yitzchak approaching; beyond them, Sarah's tent waits for life to return.]
 
----
+Yitzchak brought Rivka into the tent of Sarah his mother. That is how the Torah describes it: not just a tent, but Sarah's tent. The place still carried her name.
 
-## This week at a glance
+He married Rivka. He loved her. And he was comforted after his mother.
 
-- **Torah:** Chayei Sara, Genesis 23:1–25:18
-- **Haftarah:** I Kings 1:1–31
-- **Hebrew date:** 27 Cheshvan 5787 · **Shabbat Mevarchim Chodesh Kislev**
-- **Melbourne:** candles Fri 6 Nov **7:41 pm** · Havdalah Sat 7 Nov **8:44 pm**
-- **Coming up:** Sigd (Mon 9 Nov) · Rosh Chodesh Kislev (10–11 Nov) · Chanukah 1st candle (Fri 4 Dec)
+The story does not say that Sarah was forgotten, or that a wedding fixed everything. Rivka was not a replacement mother, and she had not travelled all that way to become someone else's memory. A new relationship could grow in a place where an old love still mattered.
 
-## A question for the Shabbat table
+Later, the rabbis pictured this as a light returning. In their midrash, Sarah's tent had held a lamp that burned from one Shabbat to the next, a blessing in the dough, a cloud above it, and doors open to guests. When she died, those blessings disappeared. With Rivka, they returned.
 
-**The servant's test for the "right person" was: do they help more than they were asked? What would *your* camel test be — for a friend, a partner, or a new teacher?**
+You can hear the connection without needing a miraculous lamp. At a faraway well, Rivka had seen tired strangers and made room for them. Now that generosity had arrived at the home where Sarah once fed unexpected guests.
 
-*מבחן העבד ל״אדם הנכון״ היה: האם הם עוזרים יותר ממה שביקשו מהם? מה יהיה מבחן הגמלים שלכם — לחבר, לבן/בת זוג, או למורה חדש?*
+Avraham lived on. He married Keturah and had six more sons; the family kept spreading beyond anything one tent could hold. He gave gifts to those sons and sent them east, while leaving his estate to Yitzchak. Then, at 175, he died “old and satisfied”.
 
-(Grandparents: how did you two meet — was there a matchmaker, a well, or a camel involved?)
+His sons took him to Machpelah: Yitzchak and Yishmael together.
 
-Bonus for Noam & Alon: after lunch, teach everyone the rules of the playground game *Chayei Sara*.
+The Torah does not give us their conversation. It does not claim that every hurt in this family had vanished. It simply places the two brothers beside the same grave, doing for their father what he had once done for Sarah.
 
-Shabbat shalom! 🕯️🕯️
+The silver had secured a place to return to. It could never have made them return together.
 
+That part had to be done by people.
+
+Back at the beginning, Avraham had stood up from mourning without knowing how the household would go on. Now Sarah rested beside him, their son had someone to love, and the tent was no longer only a place someone was missing from.
+
+Its door could open for whoever came next.
